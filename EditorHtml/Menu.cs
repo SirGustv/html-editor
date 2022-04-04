@@ -12,6 +12,10 @@ namespace EditorHtml
 
             DrawScreen();
         }
+        public static void Draw()
+        {
+
+        }
 
         public static void DrawScreen()
         {
