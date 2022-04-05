@@ -11,7 +11,7 @@ namespace EditorHtml
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
-            Console.WriteLine("MODO EDITOR");
+            Console.WriteLine("MODO EDITOR \nPressione ESC para sair do MODO EDITOR");
             Console.WriteLine("--------------");
             Start();
         }
