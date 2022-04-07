@@ -51,16 +51,14 @@ namespace EditorHtml
             EncapsOptions(10, 2, "=============");
             EncapsOptions(3, 4, "Selecione uma opção abaixo");
             EncapsOptions(3, 6, "1 - Novo Arquivo");
-            EncapsOptions(3, 7, "2 - Abrir");
-            EncapsOptions(3, 8, "0 - Sair");
-            EncapsOptions(3, 10, "Opção desejada: ");
+            EncapsOptions(3, 7, "0 - Sair");
+            EncapsOptions(3, 9, "Opção desejada: ");
         }
         public static void HandleMenuOption(short option)
         {
             switch (option)
             {
                 case 1: Editor.Show(); break;
-                case 2: Console.WriteLine("View"); break;
                 case 0:
                     {
                         Console.Clear();
