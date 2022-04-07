@@ -2,7 +2,7 @@
 
 ### RESUMO
 
-Projeto com o intuito te fixar aprendizado obtido, colocando em prática o que foi estudado a fim de entender e fixar novas funções me C#.
+Projeto com o intuito te fixar aprendizado obtido, colocando em prática o que foi estudado a fim de entender e fixar novas funções em C#.
 
 ### DESCRIÇÃO
 
